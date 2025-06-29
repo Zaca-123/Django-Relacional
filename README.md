@@ -1,7 +1,7 @@
 ## 🛠️ Django-Relacional
 
 Proyecto académico para el práctico de Bases de Datos (Ingeniería en Sistemas, UTN FRVM).  
-Basado en el trabajo del profe (ver [fabrica_pastas](https://github.com/usuario/fabrica_pastas)) y adaptado para desplegar un entorno Django profesional con Docker, utilizando PostgreSQL y modelos relacionales.
+Basado en el trabajo del profe (ver [fabrica_pastas]([https://github.com/usuario/fabrica_pastas](https://github.com/pindutn/fabrica_pastas/tree/main))) y adaptado para desplegar un entorno Django profesional con Docker, utilizando PostgreSQL y modelos relacionales.
 
 ---
 
@@ -62,14 +62,8 @@ Django-Relacional/
 
 ---
 
-## ⚙️ Archivos clave y configuraciones
-
-### `requirements.txt`
-```text
-Django
-psycopg[binary]  # Driver para PostgreSQL
-djongo           # Si migrás a MongoDB
-```
+## ⚙️ Herramientas utilizadas 
+![image](https://github.com/user-attachments/assets/659d4cc4-71c6-44b4-8f4c-a18d4a81f09e) ![image](https://github.com/user-attachments/assets/6bf796e5-6c64-492f-b3ca-8bc69fa3a507) ![image](https://github.com/user-attachments/assets/6f4baccf-f706-4c5e-b996-f79794b1be2d) ![image](https://github.com/user-attachments/assets/f8ff59ed-8bba-4c93-af34-d5379c79fc0c)
 
 
 ## 🛠️ Comandos útiles
@@ -110,7 +104,7 @@ djongo           # Si migrás a MongoDB
 ## 🤝 Créditos y Licencia
 
 - Mantenido por: Grupo 12
-- Basado en el repositorio: [fabrica_pastas](https://github.com/usuario/fabrica_pastas)
+- Basado en el repositorio: [fabrica_pastas]([https://github.com/usuario/fabrica_pasta](https://github.com/pindutn/fabrica_pastas/tree/main)s)
 
 > El código se entrega "tal cual", sin garantías. Si te es útil, considera dar feedback.
 
