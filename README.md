@@ -1,4 +1,4 @@
-## 🛠️ Django-Relacional
+# 🛠️ Django-Relacional
 
 Proyecto académico para el práctico de Bases de Datos (Ingeniería en Sistemas, UTN FRVM).  
 Basado en el trabajo del profe [fábrica de pastas](https://github.com/pindutn/fabrica_pastas/tree/main)
@@ -36,16 +36,15 @@ docker compose run --rm manage createsuperuser
 ```bash
 docker compose run --rm manage loaddata initial_data
 ```
-
-👉 Ahora accede a [http://localhost:8000/admin](http://localhost:8000/admin) y gestiona la app con el usuario creado.
+ Ahora accede a [http://localhost:8000/admin](http://localhost:8000/admin) y gestiona con el usuario creado.
 
 ---
 
-## ⚙️ Herramientas utilizadas 
+## 🛠️ Herramientas utilizadas 
 ![image](https://github.com/user-attachments/assets/659d4cc4-71c6-44b4-8f4c-a18d4a81f09e) ![image](https://github.com/user-attachments/assets/6bf796e5-6c64-492f-b3ca-8bc69fa3a507) ![image](https://github.com/user-attachments/assets/6f4baccf-f706-4c5e-b996-f79794b1be2d) ![image](https://github.com/user-attachments/assets/f8ff59ed-8bba-4c93-af34-d5379c79fc0c)
 
 
-## 🛠️ Comandos útiles
+## ⚙️ Comandos útiles
 
 - Aplicar migraciones:
   ```bash
