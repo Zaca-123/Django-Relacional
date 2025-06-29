@@ -1,7 +1,8 @@
 ## 🛠️ Django-Relacional
 
 Proyecto académico para el práctico de Bases de Datos (Ingeniería en Sistemas, UTN FRVM).  
-Basado en el trabajo del profe (ver [fabrica_pastas]([https://github.com/usuario/fabrica_pastas](https://github.com/pindutn/fabrica_pastas/tree/main))) y adaptado para desplegar un entorno Django profesional con Docker, utilizando PostgreSQL y modelos relacionales.
+Basado en el trabajo del profe [fábrica de pastas](https://github.com/pindutn/fabrica_pastas/tree/main)
+ y adaptado para desplegar un entorno Django profesional con Docker, utilizando PostgreSQL y modelos relacionales.
 
 ---
 
@@ -104,7 +105,7 @@ Django-Relacional/
 ## 🤝 Créditos y Licencia
 
 - Mantenido por: Grupo 12
-- Basado en el repositorio: [fabrica_pastas]([https://github.com/usuario/fabrica_pasta](https://github.com/pindutn/fabrica_pastas/tree/main)s)
+- Basado en el repositorio: [fábrica de pastas](https://github.com/pindutn/fabrica_pastas/tree/main)
 
 > El código se entrega "tal cual", sin garantías. Si te es útil, considera dar feedback.
 
